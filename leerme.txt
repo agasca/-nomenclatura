@@ -1,0 +1,32 @@
+Fechas
+AAAAMMDDHHSS_
+201411191731_
+
+ARCHIVOS (si aplica)
+Fechas+<nombre>.<ext>
+
+Cadena
+<string>
+
+Documentacion Comentarios
+REM
+//ini.agb+Fecha+Cadena
+//fin.agb+Fecha+Cadena
+/* Cadena*/
+Funcion del comentario
+<A>dd
+<C>reate
+<D>elete
+<M>odified
+
+Nombre de tipo de datos
+strCadena	string
+intCadena	integer
+dblCadena	double
+booCadena	boolean
+
+Nombres
+objCadena		objeto
+fnCadena		funcion
+procCadena		proceso
+protObjCadena	prototype
